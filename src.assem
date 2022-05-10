@@ -1,0 +1,4 @@
+add cx 1
+add al 97
+add ah 0x0A
+int 0x10 0
